@@ -1,7 +1,7 @@
 {
     "name": "TamperMonkey UPDATED",
     "description": "Take ROBLOX to the next level!",
-    "version": "3.5.1 BETA",
+    "version": "3.5.1",
     "manifest_version": 3,
 
     "action" : {
