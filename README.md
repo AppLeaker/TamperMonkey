@@ -1,5 +1,7 @@
 #   TamperMonkey 3.5.1 BETA
 
+![roblox](https://github.com/AppLeaker/TamperMonkey/assets/138614772/2029baf2-9bf8-4ad9-9432-88ba7f509e73)
+
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
 
 ## Instalation 💻
@@ -21,7 +23,9 @@
 ```
 Or just follow this tutorial : <LINK YOUTUBE>
 ```
-<hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">1
+
+<hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
+
 ## Requirements 
 ```
 1. A Roblox injector
@@ -35,6 +39,7 @@ Or just follow this tutorial : <LINK YOUTUBE>
 ```
 4. Supported browsers : Edge/Firefox/Chrome/Brave
 ```
+
 ![mqdefault](https://github.com/AppLeaker/Roblox32BIT/assets/138614772/bfe91a5e-7a7e-4bce-97c1-870f31be1ed7)
 
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">1
