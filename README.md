@@ -25,8 +25,14 @@ Or just follow this tutorial : <LINK YOUTUBE>
 ## Requirements 
 ```
 1. A Roblox injector
+```
+```
 2. A Roblox account
+```
+```
 3. Atleast windows 7
+```
+```
 4. Supported browsers : Edge/Firefox/Chrome/Brave
 ```
 ![mqdefault](https://github.com/AppLeaker/Roblox32BIT/assets/138614772/bfe91a5e-7a7e-4bce-97c1-870f31be1ed7)
